@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "updated_at": "2026-11-12T01:49:53+09:00",
+  "services": [
+    {
+      "id": "codex",
+      "name": "Codex",
+      "status": "not_connected"
+    },
+    {
+      "id": "claude_code",
+      "name": "Claude Code",
+      "status": "not_connected"
+    },
+    {
+      "id": "muse",
+      "name": "Muse",
+      "status": "ok",
+      "weekly_remaining_percent": 3,
+      "weekly_reset_at": "2026-11-14T05:13:00+09:00",
+      "extra_remaining_percent": 98
+    }
+  ]
+}
