@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-14T22:48:40+09:00",
+  "updated_at": "2026-11-15T01:48:42+09:00",
   "services": [
     {
       "id": "codex",
@@ -8,17 +8,17 @@
       "status": "ok",
       "weekly_remaining_percent": 74,
       "weekly_reset_at": "2026-11-17T11:28:15+00:00",
-      "five_hour_remaining_percent": 92,
-      "five_hour_reset_at": "2026-11-14T14:06:19+00:00"
+      "five_hour_remaining_percent": 100,
+      "five_hour_reset_at": "2026-11-14T19:06:33+00:00"
     },
     {
       "id": "claude_code",
       "name": "Claude Code",
       "status": "ok",
-      "weekly_remaining_percent": 48,
-      "weekly_reset_at": "2026-11-16T22:00:00.472308+00:00",
-      "five_hour_remaining_percent": 100,
-      "five_hour_reset_at": "2026-11-14T18:20:00.472284+00:00"
+      "weekly_remaining_percent": 47,
+      "weekly_reset_at": "2026-11-16T21:59:59.515857+00:00",
+      "five_hour_remaining_percent": 97,
+      "five_hour_reset_at": "2026-11-14T18:19:59.515838+00:00"
     },
     {
       "id": "muse",
