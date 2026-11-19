@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-11-19T13:48:44+09:00",
+  "updated_at": "2026-11-19T16:48:40+09:00",
   "services": [
     {
       "id": "codex",
@@ -9,14 +9,14 @@
       "weekly_remaining_percent": 97,
       "weekly_reset_at": "2026-11-24T11:28:30+00:00",
       "five_hour_remaining_percent": 100,
-      "five_hour_reset_at": "2026-11-19T09:48:42+00:00"
+      "five_hour_reset_at": "2026-11-19T12:48:38+00:00"
     },
     {
       "id": "claude_code",
       "name": "Claude Code",
       "status": "ok",
       "weekly_remaining_percent": 91,
-      "weekly_reset_at": "2026-11-23T22:00:00.297058+00:00",
+      "weekly_reset_at": "2026-11-23T22:00:00.432741+00:00",
       "five_hour_remaining_percent": 100
     },
     {
