@@ -1,22 +1,22 @@
 {
   "version": 1,
-  "updated_at": "2026-11-25T01:48:42+09:00",
+  "updated_at": "2026-11-25T04:48:42+09:00",
   "services": [
     {
       "id": "codex",
       "name": "Codex",
       "status": "ok",
       "weekly_remaining_percent": 100,
-      "weekly_reset_at": "2026-12-01T16:48:41+00:00",
+      "weekly_reset_at": "2026-12-01T19:48:40+00:00",
       "five_hour_remaining_percent": 100,
-      "five_hour_reset_at": "2026-11-24T21:48:41+00:00"
+      "five_hour_reset_at": "2026-11-25T00:48:40+00:00"
     },
     {
       "id": "claude_code",
       "name": "Claude Code",
       "status": "ok",
       "weekly_remaining_percent": 83,
-      "weekly_reset_at": "2026-11-30T22:00:00.031106+00:00",
+      "weekly_reset_at": "2026-11-30T22:00:00.195013+00:00",
       "five_hour_remaining_percent": 100
     },
     {
